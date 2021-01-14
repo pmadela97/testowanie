@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie funkcjonalności zlecenia przelewu na podany numer konta przez stronę demobank.jaktestuje.pl</description>
+   <name>TransferExternalTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1dff860-e4e6-4334-933b-b1431eb2e81f</testCaseGuid>
+   <variable>
+      <defaultValue>'login123'</defaultValue>
+      <description></description>
+      <id>f8006bdb-fb88-438a-bc10-25d05730888c</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'RigbBhfdqOBGNlJIWM1ClA==\r\n'</defaultValue>
+      <description></description>
+      <id>5dabca82-ca86-44a2-8e9c-2af71ee2d95f</id>
+      <masked>false</masked>
+      <name>password_enc</name>
+   </variable>
+   <variable>
+      <defaultValue>'123.4'</defaultValue>
+      <description></description>
+      <id>21887c4e-1966-44cc-ac08-295e335055ef</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zlecenie'</defaultValue>
+      <description></description>
+      <id>4eb1054a-badf-4211-b42a-36700f684646</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;AAAA&quot;'</defaultValue>
+      <description></description>
+      <id>b3f801e5-4838-42d2-a60a-527c0a302b78</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://demobank.jaktestowac.pl/logowanie_etap_1.html'</defaultValue>
+      <description></description>
+      <id>b8ee50a3-ea8a-4420-a0ed-e42ed7afa563</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'11111111111111111111111111'</defaultValue>
+      <description></description>
+      <id>e753092d-b9d1-48c2-bf3b-022df910b789</id>
+      <masked>false</masked>
+      <name>account_num</name>
+   </variable>
+</TestCaseEntity>
