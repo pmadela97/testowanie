@@ -1,0 +1,6 @@
+login_id,password_enc,amount,titile,name,url,account_num
+login123,RigbBhfdqOBGNlJIWM1ClA==,123.4,Zlecenie,Paweł Madeła,https://demobank.jaktestowac.pl/logowanie_etap_1.html,12304928764726184905283495
+login456,wjE5OiYNr1m+yHfa59pkhQ==,2234.23,Opłata,Arkadiusz Milik,https://demobank.jaktestowac.pl/logowanie_etap_1.html,85727456381100000084728395
+login789,GYDmRgS5yd5PL6pQTxDpCg==,14.23,Przelew,Krzysztof Stanowski,https://demobank.jaktestowac.pl/logowanie_etap_1.html,11111111111111111111111111
+login234,OD9Dwe1AIKppSJ6/D9Egcg==,33.32,Oddaje,Tommy Lee Jones,https://demobank.jaktestowac.pl/logowanie_etap_1.html,12304928764726184905283495
+login567,RigbBhfdqOBGNlJIWM1ClA==,231.52,Pożyczka,Karol Bielecki,https://demobank.jaktestowac.pl/logowanie_etap_1.html,85727456381100000084728395

@@ -1,0 +1,6 @@
+login_id,password_enc,amount,titile,selector,url
+login123,RigbBhfdqOBGNlJIWM1ClA==,123.4,Zlecenie,1,https://demobank.jaktestowac.pl/logowanie_etap_1.html
+login456,wjE5OiYNr1m+yHfa59pkhQ==,2234.23,Opłata,1,https://demobank.jaktestowac.pl/logowanie_etap_1.html
+login789,O+CrIYdsdAXrrgtUU5vobw==,14.23,Przelew,2,https://demobank.jaktestowac.pl/logowanie_etap_1.html
+login234,OD9Dwe1AIKppSJ6/D9Egcg==,33.32,Oddaje,1,https://demobank.jaktestowac.pl/logowanie_etap_1.html
+login567,GYDmRgS5yd5PL6pQTxDpCg==,231.52,Pożyczka,2,https://demobank.jaktestowac.pl/logowanie_etap_1.html
